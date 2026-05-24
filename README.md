@@ -2,7 +2,6 @@
 
 A production-ready **Streamlit** app that generates complete outfit recommendations
 and finds similar clothing items using machine-learning similarity search.
-Data Used: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 ---
 
 ## 🚀 Quick Start
@@ -125,3 +124,4 @@ utils.py        — ML logic (pure functions, no UI)
 ---
 
 *Built with Streamlit · pandas · scikit-learn · Pillow*
+Data Used: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
