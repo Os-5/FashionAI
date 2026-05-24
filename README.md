@@ -123,5 +123,5 @@ utils.py        — ML logic (pure functions, no UI)
 
 ---
 
-*Built with Streamlit · pandas · scikit-learn · Pillow*
+*Built with Streamlit · pandas · scikit-learn · Pillow*, 
 Data Used: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
